@@ -23,7 +23,7 @@ To get started
 1. Clone the repo:
 
 ```bash
-git clone git@github.com/drsfieldsIMA/GreenCycle.git
+git clone git@github.com/drsfieldsIMA/greencycle.git
 ```
 
 2. Open with a processor of your choice e.g. Visual Studio Code:

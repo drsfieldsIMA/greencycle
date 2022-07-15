@@ -1,12 +1,12 @@
-# Portfolio
+# GreenCycle
 
 ![](https://github.com/drsfieldsIMA/portfolio/blob/main/public/greencycle_desktop.png)
 
-Portfolio 
+Going Green Starts Local
 
 ## Description
 
- Shaun Fields React/Next.js web developer 
+ Ever wondered how we can recycle more through our communities. We mean more of you and your networks phones, electrics, clothes and furniture recycled through this app. The GreenCycle community are here to safeguard and contribute to stewarding the Earth`s resources by leveraging the world wide web`s scale.
 
 ## Built With
 
@@ -23,7 +23,7 @@ To get started
 1. Clone the repo:
 
 ```bash
-git clone git@github.com/drsfieldsIMA/portfolio.git
+git clone git@github.com/drsfieldsIMA/GreenCycle.git
 ```
 
 2. Open with a processor of your choice e.g. Visual Studio Code:

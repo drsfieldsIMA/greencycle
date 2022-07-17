@@ -12,9 +12,9 @@ Going Green Starts Local
 
 ## Built With
 
-- [Next.js](https://nextjs.org/)
+- [Next.js] (https://nextjs.org/)
 - [SCSS] (https://sass-lang.com/)
-- [Visual Studio Code](https://code.visualstudio.com/)
+- [Visual Studio Code] (https://code.visualstudio.com/)
 
 ## Getting Started
 

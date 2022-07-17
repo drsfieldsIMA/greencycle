@@ -44,19 +44,24 @@ You can start editing the page by modifying `pages/index.tsx`. The page auto-upd
 
 The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
 
+3. Build the static files.
+
+```
+npm run build 
+```
+
+You can host the static files to your webdomain of choice however it is prefreable to use Vercel to host the final app.
+
 ## Contributing
 
 Make sure to open a pull request so code can be reviewed.
 
 ## Contact
 
-This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
+This is where you can contact me.
 
 [My LinkedIn page](https://www.linkedin.com/in/shaun-fields-8293b7a2/)
-
-## License
-
-You can link to your license file here if you're using one, or mention what license the codebase falls under. If you're unsure then you can simply delete this section.
+[Email](drsfieldsIMA@gmail.com)
 
 ## Acknowledgments
 

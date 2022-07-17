@@ -52,7 +52,7 @@ Make sure to open a pull request so code can be reviewed.
 
 This is where you can leave your social links for people to contact you, such as a LinkedIn profile or Twitter link e.g.
 
-[My LinkedIn page](www.linkedin.com)
+[My LinkedIn page](https://www.linkedin.com/in/shaun-fields-8293b7a2/)
 
 ## License
 
